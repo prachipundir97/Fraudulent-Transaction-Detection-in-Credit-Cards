@@ -127,4 +127,4 @@ for currDF in dfs:
 
 ## Author Attribution
 This readme and all the project files have been created by:
-Manas Shukla, Anupa Shah, Prachi Pundir of Virginia Polytechnic Institute and State University as a part of course CS_5644: Machine Learning With Big Data.
+Prachi Pundir, Manas Shukla & Anupa Shah of Virginia Polytechnic Institute and State University as a part of course CS_5644: Machine Learning With Big Data.
