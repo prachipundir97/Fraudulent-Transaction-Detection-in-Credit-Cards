@@ -1,6 +1,8 @@
 # Fraudulent-Transaction-Detection-in-Credit-Cards
 
 This project contains the steps to arriving at a model for successfully detecting fraudulent transactions in credit card data.
+In this project, the data massaging and pre-processing were completed. It was found that the features for analysis could be increased by One-Hot Encoding of dataset. Further, the dataset was split into five chunks of data, and a comparative analysis was performed for different Machine Learning classification models. Finally applying best ensemble technique, which is XGBoost with n_features=200 and ADASYN with decision tree, we were able to achieve high precision score and f1 score over all other classifiers.
+In this project, we created a high-precision machine learning model to detect credit card frauds. Whenever a fraud is detected, human intervention is needed to verify whether the transaction is legitimate by calling the customer. This intervention can be reduced by a high precision model, as the number of false positives will be reduced.
 
 
 ## Installation
